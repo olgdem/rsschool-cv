@@ -1,11 +1,16 @@
 # Olga Demets
 
+
 ## Contacts:
 
    __Phone:__ +380663971078
+
    __Email:__ demolg68@ukr.net
+
    __Linkedin:__ OlgaDem
+
    __Skype:__ Olga_Dem
+   
 
 ## About myself
 
@@ -14,13 +19,15 @@ I decided to change my profesion and so I ended QA courses. Some mounthes I work
 I like to solve hard tasks, it gives me a lot of energy and good mood. I realize that to get success I need to work hard and to study all the time, but I am a curious person and I like to learn something new every day. 
 
 I was a journalist, so I have an experience in researching information and to work with a big amount of data. I have a deep understanding that if I take the job, I do it productively. I don't afraid of challenges and I am convinced that the challenges make us better. Even if I lose, I can work on my mistakes and go ahead to reach new "mountains". The world and technology don't stop in development, so I will not. I am sure that I need to develop and improve myself all the time. 
+
 ______________________________________________________________________
 
 ## Work experience
 
 __Junior Manual QA__
 
-_Web Studio “Sago”, Kropyvnytskiy || january 2022  – march 2022_ 
+_Web Studio “Sago”, Kropyvnytskiy_
+_january 2022  –  march 2022_ 
 
    * writing about 500 bug reports;
 
@@ -36,7 +43,8 @@ _Web Studio “Sago”, Kropyvnytskiy || january 2022  – march 2022_
 
 __Copywriter__
 
-_Freelance || 2020  – 2021_ 
+_Freelance_
+_2020  – 2021_ 
 
    * gathering information and writing texts on various topics;
 
@@ -44,7 +52,8 @@ _Freelance || 2020  – 2021_
 
 __SMM-manager in Instagram__
 
-_Restaurant Steake House «ComeIn», Kropyvnytskiy || 2019 – 2020_
+_Restaurant Steake House «ComeIn», Kropyvnytskiy_
+_2019 – 2020_
 
    * maintaining and promoting project resources in FB and IG;
 
@@ -52,7 +61,8 @@ _Restaurant Steake House «ComeIn», Kropyvnytskiy || 2019 – 2020_
 
 __Journalist, Deputy Editor__
 
-_newspaper «Zorya», Kropyvnytskiy || 2007 – 2011_
+_newspaper «Zorya», Kropyvnytskiy_
+_2007 – 2011_
 
    * issue of the newspaper planning and control over the terms of its observance;
 
@@ -66,9 +76,11 @@ ______________________________________________________________________
 
 ## Education
 
-   * ADMINISTRATIVE MANAGEMENT, Master`s degree || Kirovohrad National Technical University || 2007-2008
+   * ADMINISTRATIVE MANAGEMENT, Master`s degree
+     Kirovohrad National Technical University // 2007-2008
 
-   * FINANCE, Bachelor || Kirovohrad National Technical University || 2003-2007
+   * FINANCE, Bachelor
+     Kirovohrad National Technical University // 2003-2007
 
 
 ## Knowledges and skills
