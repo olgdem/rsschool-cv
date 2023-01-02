@@ -26,7 +26,7 @@ ______________________________________________________________________
 
 __Junior Manual QA__
 
-_Web Studio “Sago”, Kropyvnytskiy  ||  january 2022  –  march 2022_ 
+_Web Studio “Sago”, Kropyvnytskiy  //  january 2022  –  march 2022_ 
 
    * writing about 500 bug reports;
 
@@ -42,7 +42,7 @@ _Web Studio “Sago”, Kropyvnytskiy  ||  january 2022  –  march 2022_
 
 __Copywriter__
 
-_Freelance  ||  2020  – 2021_ 
+_Freelance  //  2020  – 2021_ 
 
    * gathering information and writing texts on various topics;
 
@@ -50,7 +50,7 @@ _Freelance  ||  2020  – 2021_
 
 __SMM-manager in Instagram__
 
-_Restaurant Steake House «ComeIn», Kropyvnytskiy  ||  2019 – 2020_
+_Restaurant Steake House «ComeIn», Kropyvnytskiy  //  2019 – 2020_
 
    * maintaining and promoting project resources in FB and IG;
 
@@ -58,7 +58,7 @@ _Restaurant Steake House «ComeIn», Kropyvnytskiy  ||  2019 – 2020_
 
 __Journalist, Deputy Editor__
 
-_newspaper «Zorya», Kropyvnytskiy  ||  2007 – 2011_
+_newspaper «Zorya», Kropyvnytskiy  //  2007 – 2011_
 
    * issue of the newspaper planning and control over the terms of its observance;
 
@@ -73,7 +73,7 @@ ______________________________________________________________________
 ## Education
 
    * ADMINISTRATIVE MANAGEMENT, Master`s degree
-   
+
      Kirovohrad National Technical University  //  2007-2008
 
    * FINANCE, Bachelor
