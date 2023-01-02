@@ -74,11 +74,11 @@ ______________________________________________________________________
 
    * ADMINISTRATIVE MANAGEMENT, Master`s degree
 
-     Kirovohrad National Technical University  //  2007-2008
+     _Kirovohrad National Technical University_  //  _2007-2008_
 
    * FINANCE, Bachelor
 
-     Kirovohrad National Technical University  //  2003-2007
+     _Kirovohrad National Technical University_  //  _2003-2007_
 
 
 ## Knowledges and skills
