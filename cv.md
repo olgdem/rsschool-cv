@@ -1,5 +1,4 @@
 # Olga Demets
-_____________________________________________________________________
 
 ## Contacts:
 
@@ -8,8 +7,6 @@ _____________________________________________________________________
    __Linkedin:__ OlgaDem
    __Skype:__ Olga_Dem
 
-______________________________________________________________________
-
 ## About myself
 
 I decided to change my profesion and so I ended QA courses. Some mounthes I worked in this sphere and understud that I want to create sites instead of testing it. So now I learn frontend by myself and I like it. 
@@ -17,7 +14,6 @@ I decided to change my profesion and so I ended QA courses. Some mounthes I work
 I like to solve hard tasks, it gives me a lot of energy and good mood. I realize that to get success I need to work hard and to study all the time, but I am a curious person and I like to learn something new every day. 
 
 I was a journalist, so I have an experience in researching information and to work with a big amount of data. I have a deep understanding that if I take the job, I do it productively. I don't afraid of challenges and I am convinced that the challenges make us better. Even if I lose, I can work on my mistakes and go ahead to reach new "mountains". The world and technology don't stop in development, so I will not. I am sure that I need to develop and improve myself all the time. 
-
 ______________________________________________________________________
 
 ## Work experience
@@ -66,15 +62,14 @@ _newspaper «Zorya», Kropyvnytskiy || 2007 – 2011_
 
    * preparation and writing of news, articles, interviews, editing texts.
 
-_________________________________________________________________________
+______________________________________________________________________
 
-##Education
+## Education
 
    * ADMINISTRATIVE MANAGEMENT, Master`s degree || Kirovohrad National Technical University || 2007-2008
 
    * FINANCE, Bachelor || Kirovohrad National Technical University || 2003-2007
 
-_________________________________________________________________________
 
 ## Knowledges and skills
 
@@ -88,13 +83,13 @@ _________________________________________________________________________
 
    * ability to work with a large amount of information.
 
-__QA stack:__ 
+   __QA stack:__ 
 
-Postman, Jira, Trello, TestRail, Selenium IDE, Planfix, Devtools, HTML, CSS.
+   Postman, Jira, Trello, TestRail, Selenium IDE, Planfix, Devtools, HTML, CSS.
 
-__Design stack:__ 
+   __Design stack:__ 
 
-Adobe Photoshop, Illustrator, InDesign, Figma.
+   Adobe Photoshop, Illustrator, InDesign, Figma.
 
 ________________________________________________________________________
 
