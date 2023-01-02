@@ -1,1 +1,1 @@
-# rsschool-cv
+https://olgdem.github.io/rsschool-cv/cv
