@@ -1,6 +1,5 @@
 # Olga Demets
-
-==================================================================
+_____________________________________________________________________
 
 ## Contacts:
 
@@ -9,7 +8,7 @@
    __Linkedin:__ OlgaDem
    __Skype:__ Olga_Dem
 
-==================================================================
+______________________________________________________________________
 
 ## About myself
 
@@ -19,7 +18,7 @@ I like to solve hard tasks, it gives me a lot of energy and good mood. I realize
 
 I was a journalist, so I have an experience in researching information and to work with a big amount of data. I have a deep understanding that if I take the job, I do it productively. I don't afraid of challenges and I am convinced that the challenges make us better. Even if I lose, I can work on my mistakes and go ahead to reach new "mountains". The world and technology don't stop in development, so I will not. I am sure that I need to develop and improve myself all the time. 
 
-===================================================================
+______________________________________________________________________
 
 ## Work experience
 
@@ -67,7 +66,7 @@ _newspaper «Zorya», Kropyvnytskiy || 2007 – 2011_
 
    * preparation and writing of news, articles, interviews, editing texts.
 
-=========================================================================
+_________________________________________________________________________
 
 ##Education
 
@@ -75,7 +74,7 @@ _newspaper «Zorya», Kropyvnytskiy || 2007 – 2011_
 
    * FINANCE, Bachelor || Kirovohrad National Technical University || 2003-2007
 
-========================================================================
+_________________________________________________________________________
 
 ## Knowledges and skills
 
@@ -91,13 +90,13 @@ _newspaper «Zorya», Kropyvnytskiy || 2007 – 2011_
 
 __QA stack:__ 
 
-Postman, Jira, Trello, TestRail, Selenium IDE, Planfix,   Devtools, HTML, CSS.
+Postman, Jira, Trello, TestRail, Selenium IDE, Planfix, Devtools, HTML, CSS.
 
 __Design stack:__ 
 
 Adobe Photoshop, Illustrator, InDesign, Figma.
 
-======================================================================
+________________________________________________________________________
 
 ## Languages
 
