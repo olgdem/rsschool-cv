@@ -1,5 +1,281 @@
 body {
-    font-size: large;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+    min-height: 100vh;
+    margin: auto;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Roboto', ;
+    font-size: 18px;
+    /*font-weight: 400;*/
+    line-height: 1.5;
+    color: #4d2323;
+    max-width: 1400px;
+    
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    /*border: 1px solid red;*/
+}
+
+main {
+    /*border: 0 solid red;*/
+}
+
+footer {
+    /*border: 1px solid red;*/
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 400;
+}
+
+.nav-item a {
+    color: aliceblue;
+    transition: color 0.5s;
+}
+
+.nav-item a:hover {
+    color: #4d2323;
+}
+
+span {
+    font-weight: 400;
+}
+
+.main-container {
+    /*display: flex;
+    flex-wrap: wrap;*/
+}
+
+.section {
+    width: 100%;
+    margin: 0;
+padding: 0 20px 0 20px;
+    border: none;
+    background-color: antiquewhite;
+
+  }
+  .section-contacts {
+    width: 100%;
+    border: none;
+    background-color: antiquewhite;
+    margin-bottom: 20px;
+    margin-right: 20px;
+   
+
+  }
+.section-skills, .section-language {
+    margin-bottom: 20px;
+    background-color: antiquewhite
+}
+.section-education {
+    background-color: antiquewhite
+}
+
+ .text-lang {
+    padding: 0 20px 0 20px;
+ }
+
+.section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 10px 0 10px;
+    margin-top: 0;
+    
+    
+  }
+
+h1.section-title {
+    width: 98.5%;
+    margin-top: 0;
+    padding: 10px;
+    margin-left: 20px;
+  }
+
+  .link {
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+  }
+  
+  .link:hover {
+    color: #5d7260;
+  }
+
+  .container-contacts {
+   margin: 0 20px 10px 20px;
+   
+    
+  }
+.photo-name {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+  .wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+   
+    
+  }
+
+  
+    
+
+  .section-1 {
+    max-width: fit-content;
+    background-color: antiquewhite;
+    padding-bottom: 10px;
+    
+  }
+
+  .nav {
+    background-color: cornflowerblue;
+  }
+
+  .section-2 {
+    display: flex;
+    flex-direction: column;
+   
+    
+    
+  }
+  .section-23 {
+    margin-right: 20px;
+    background-color: antiquewhite;
+
+  }
+
+  .text-experience {
+    padding: 0 20px 0 20px;
+  }
+
+  h4 {
+    margin: 0;
+  }
+
+.colomn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.contacts-colomn {
+    
+   padding-left: 20px;
+   margin-top: 0;
+   margin-bottom: 13px;
+}
+.summary-text {
+    padding: o 20px 20px 20px;
+}
+.summary-text-1 {
+padding: 0 20px 0 20px;
+text-align: justify;
+margin-bottom: 0;
+margin-top: 0;
+}
+
+img {
+    
+}
+
+
+
+.name-contacts-summary {
+    display: flex;
+    flex-direction: column;
+}
+/*aside {
+    display: inline;
+    float: left;
+}*/
+
+.wrapper-twocolomns {
+    display: flex;
+    flex-direction: row;
+   align-items: stretch;
+   
+    width: 100%;
+    
+    
+}
+
+.work-place {
+    font-style: italic;
+    font-weight: 400;
+    margin: 10px 0 10px 0;
+}
+
+.ul-styles {
+    margin: 0 0 10px 0px;
+    text-align: justify;
+    padding-right: 20px;
+}
+
+.container-footer {
+    background-color: darkolivegreen;
+    display: inline-flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.img-favicon {
+    width: 24px;
+    height: 24px;
+    margin-left: 280px;
+    margin-top: 20px;
+    
+}
+
+.img-logo {
+    height: 64px;
+    width: 64px;
+    margin-left: 900px;
+}
+
+.year {
+    color: beige;
+    margin-left: 10px;
 }
